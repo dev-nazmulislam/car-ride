@@ -1,0 +1,15 @@
+
+@media only screen and (max-width: 576px) {
+    .banner-img img{
+        width:320px;
+        height: 260px;
+    }
+    .fetured-bikes img{
+        width:290px;
+        height: 245;
+    }
+    .card-img-top{
+        width:295px;
+        height: 224;
+    }
+}
